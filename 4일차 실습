@@ -2,28 +2,28 @@
   <head> <title> 01 김도진 </title></head>
 
   <body>
-    <h1><font color=#a0a0a0>1. 공백문자 				 														</font></h1>
+    <h1><font color=#a0a0a0>1. 공백문자 				 		</font></h1>
 
 <!--문창과 2학년 김도진 <br> <br>-->
     문창과 2학년 김도진 <br> <br>
 
-    <h1><font color=#a0a0a0>2. 문단구분 																		</font></h1>
+    <h1><font color=#a0a0a0>2. 문단구분 						</font></h1>
       <h2>&nbsp;&nbsp;2.1 p
-        <p> &nbsp;&nbsp;&nbsp;&nbsp; p 첫 번째 문자열											</p>
-        <p> &nbsp;&nbsp;&nbsp;&nbsp; p 첫 번째 문자열											</p>
-        <p align=center> p 세 번째 문자열																	</p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; p 첫 번째 문자열				</p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; p 첫 번째 문자열				</p>
+        <p align=center> p 세 번째 문자열					</p>
       </h2>
 <br>  
       <h2>&nbsp;&nbsp;2.2 div
-        <div> &nbsp;&nbsp;&nbsp;&nbsp; div 첫 번째 문자열									</div>
-        <div> &nbsp;&nbsp;&nbsp;&nbsp; div 두 번째 문자열									</div>
+        <div> &nbsp;&nbsp;&nbsp;&nbsp; div 첫 번째 문자열			</div>
+        <div> &nbsp;&nbsp;&nbsp;&nbsp; div 두 번째 문자열			</div>
         <div align=center> &nbsp;&nbsp;&nbsp;&nbsp; div 세 번쨰 문자열   	</div>
       </h2>
 <br>
       <h2>&nbsp;&nbsp;2.3 center
         <center align=left> &nbsp;&nbsp;&nbsp;&nbsp; center 첫 번째 문자열	</center>
         <center align=left> &nbsp;&nbsp;&nbsp;&nbsp; center 첫 번째 문자열	</center>
-        <center>  center &nbsp;&nbsp;세 번째 문자열												</center>
+        <center>  center &nbsp;&nbsp;세 번째 문자열				</center>
       </h2>
 <br>
       <h2>&nbsp;&nbsp;2.4 pre
@@ -31,10 +31,10 @@
 학번: 재학중인
 학과: 김도진이라고 하오							
         </pre>
-			<h2>
+      <h2>
 <br><br>
 
-    <h1><font color=#a0a0a0>3. 리스트					</font></h1>						</h1>
+    <h1><font color=#a0a0a0>3. 리스트						</font></h1>
       <h2>&nbsp;&nbsp; 내가 좋아하는 음악 : ul
         <ul>
           <li> 나는
